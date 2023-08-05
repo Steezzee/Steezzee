@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Steezzee
-- 👀 I’m interested in learning new things. I would like to learn to program in Swift so I can conceptualize and create software that will bring value to companies.
-- 🌱 I’m currently learning how to code with Swift. I'm a 3rd year computer engineering student from Dallas, TX.
-- 💞️ I’m looking to collaborate on anything that I can.
+- 👀 I’m interested in app development and web design. I am learning to program in Swift and React as well as HTML, CSS, and JavaScript/TypeScript.
+- 🌱 I’m currently working on a few projects -- some personal and one professional. I'm a 3rd year computer engineering student at the University of Texas at Dallas.
+- 💞️ I’m looking to collaborate on anything that I can. I come from a Sales Management background and would like to use my previous experience in the techology field. 
 - 📫 You can reach me at travismstanger@gmail.com.
 
-Some hobbies of mine include: Playing musical instruments (piano, drums.0, guitar), playing video games (currently Apex Legends), playing chess (not very good),
-spending time with my daughter (Sophia), going to concerts (311), learning new skills.
+Some hobbies of mine include: Playing musical instruments (piano, drums.0, guitar), reading half way through books, playing chess (not very good),
+spending time with my daughter (Sophia), going to concerts (311), and going out on the boat.
 
 <!---
 Steezzee/Steezzee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
