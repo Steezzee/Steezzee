@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on anything that I can. I come from a Sales Management background and would like to use my previous experience in the techology field. 
 - 📫 You can reach me at travismstanger@gmail.com.
 
-Some hobbies of mine include: Playing musical instruments (piano, drums.0, guitar), reading half way through books, playing chess (not very good),
-spending time with my daughter (Sophia), going to concerts (311), and going out on the boat.
+Some hobbies of mine include: Playing musical instruments (piano, drums, guitar), reading half way through books, playing chess,
+spending time with my daughter, going to concerts, and going out on the boat.
 
 <!---
 Steezzee/Steezzee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
