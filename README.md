@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Steezzee
-- 👀 I’m interested in app development and web design. I am learning to program in Swift and React as well as HTML, CSS, and JavaScript/TypeScript.
+- 👀 I’m interested in app development and web design. I am learning to program in Swift, Java, React, HTML, CSS, and JavaScript/TypeScript.
 - 🌱 I’m currently working on a few projects -- some personal and one professional. I'm a 3rd year computer engineering student at the University of Texas at Dallas.
-- 💞️ I’m looking to collaborate on anything that I can. I come from a Sales Management background and would like to use my previous experience in the techology field. 
+- 💞️ I’m looking to collaborate on anything that I can. I come from a Sales Management background and would like to use my previous experience in the technology field. 
 - 📫 You can reach me at travismstanger@gmail.com.
 
 Some hobbies of mine include: Playing musical instruments (piano, drums, guitar), reading half way through books, playing chess,
